@@ -43,6 +43,14 @@
 
 * * *
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zidan-Kohai's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Zidan-Kohai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+* * *
+
 <div align="center">
 <h3 align="center">Connect With Me!!!<img align="center" height="33px" /></h3>
 <center>
@@ -52,9 +60,3 @@
 </center>
   <!--https://github.com/DenverCoder1-->
 </div> 
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zidan-Kohai's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Zidan-Kohai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
