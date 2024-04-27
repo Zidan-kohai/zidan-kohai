@@ -1,7 +1,7 @@
 * * *
 <p align="center">
   
-<h3>👋 Hi, my name is Zayniddin Kobilov, I'm a Unity developer and .Net Developer.</h3>
+<h3>👋 Hi, my name is Zayniddin, I'm a Unity developer and .Net Developer.</h3>
 
 
 <h3>Open to new opportunities.</h3>
