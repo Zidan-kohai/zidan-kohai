@@ -3,6 +3,7 @@
   
 <h3>👋 Hi, my name is Zayniddin, I'm a Unity developer and .Net Developer.</h3>
 
+[Моё резюме](https://zidan-kohai.github.io/CV/)
 
 <h3>Open to new opportunities.</h3>
 </p>
